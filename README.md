@@ -23,8 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gwan-yong/CodingTestStudy/tree/master/0001-two-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gwan-yong/CodingTestStudy/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gwan-yong/CodingTestStudy/tree/master/0001-two-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gwan-yong/CodingTestStudy/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
