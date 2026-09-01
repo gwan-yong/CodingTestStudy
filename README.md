@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gwan-yong/CodingTestStudy/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/gwan-yong/CodingTestStudy/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gwan-yong/CodingTestStudy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gwan-yong/CodingTestStudy/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/gwan-yong/CodingTestStudy/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/gwan-yong/CodingTestStudy/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gwan-yong/CodingTestStudy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/gwan-yong/CodingTestStudy/tree/master/0509-fibonacci-number) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/gwan-yong/CodingTestStudy/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gwan-yong/CodingTestStudy/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gwan-yong/CodingTestStudy/tree/master/0111-minimum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/gwan-yong/CodingTestStudy/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
